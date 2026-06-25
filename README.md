@@ -21,6 +21,8 @@ Admins can manage packages, bookings, users, and view a real-time dashboard.
 ## Screenshots
 
 > Add screenshots here after deployment.
+> <img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/7304ced8-3026-4ac1-a0a2-25f4ecc22457" />
+
 
 ---
 
