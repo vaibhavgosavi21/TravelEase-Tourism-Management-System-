@@ -22,6 +22,16 @@ Admins can manage packages, bookings, users, and view a real-time dashboard.
 
 > Add screenshots here after deployment.
 > <img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/7304ced8-3026-4ac1-a0a2-25f4ecc22457" />
+<img width="576" height="757" alt="image" src="https://github.com/user-attachments/assets/b847c698-a1f0-4d4b-8d7a-00b8a304be49" />
+
+<img width="1900" height="859" alt="image" src="https://github.com/user-attachments/assets/c16d839a-5e7f-489c-9dbf-613a1cc368a4" />
+<img width="1841" height="899" alt="image" src="https://github.com/user-attachments/assets/3ddd357d-1ee2-45c5-b087-d8ab0a023827" />
+<img width="1916" height="919" alt="image" src="https://github.com/user-attachments/assets/c745fc8a-7d1f-4072-a6d9-0763f38f84d0" />
+<img width="1908" height="916" alt="image" src="https://github.com/user-attachments/assets/d2d20aae-dd4e-4f7d-82bb-0df7124f8496" />
+<img width="1591" height="728" alt="image" src="https://github.com/user-attachments/assets/54e16df1-2d39-4809-a755-6ad4946fcd4c" />
+
+<img width="1210" height="784" alt="image" src="https://github.com/user-attachments/assets/80b09796-be6c-4bd6-8487-59bf0d637559" />
+
 
 
 ---
